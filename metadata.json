@@ -1,0 +1,6 @@
+{
+  "name": "Hoang Đảo Sinh Tồn - Survival Isle",
+  "description": "Tựa game phiêu lưu hành động sinh tồn thế giới mở trên hoang đảo huyền bí: chặt cây, đào mỏ, chế tạo vũ khí, săn bắt, chống quái vật bóng đêm và giải cứu chính mình.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
